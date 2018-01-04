@@ -24,16 +24,16 @@
     "bugs": "https://datatables.net/forums",
     "license": "MIT",
     "author": {
-        "name": "SpryMedia Ltd",
+        "name": "Richard Williams",
         "url": "http://datatables.net"
     },
     "dependencies": {
         "jquery": ">=1.7",
-        "datatables.net-bs": "^1.10.15",
-        "datatables.net-buttons": "1.4.2"
+        "datatables.net-bs": "git+https://git@github.com/rw251/Dist-DataTables-Bootstrap.git",
+        "datatables.net-buttons": "git+https://git@github.com/rw251/Dist-DataTables-Buttons.git"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/DataTables/Dist-DataTables-Buttons-Bootstrap.git"
+        "url": "https://github.com/rw251/Dist-DataTables-Buttons-Bootstrap.git"
     }
 }
